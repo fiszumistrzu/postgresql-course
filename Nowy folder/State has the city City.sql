@@ -1,0 +1,2 @@
+SELECT pstate || ' has the city ' || pcity AS "Towns" FROM people ORDER BY pstate DESC, pcity ASC;
+--SELECT DISTINCT pstate, pcity, pstate || ' has the city ' || pcity AS "Towns" FROM people ORDER BY pstate DESC, pcity ASC;
