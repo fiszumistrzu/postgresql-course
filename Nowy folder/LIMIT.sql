@@ -1,1 +1,1 @@
-SELECT * FROM people LIMIT 10;
+SELECT CAST(ppoints AS TEXT) FROM people;
