@@ -1,0 +1,1 @@
+SELECT pfirstname AS "First Name", 'lives in' AS "lives in", pcity AS "City" FROM people;
